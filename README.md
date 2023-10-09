@@ -1,5 +1,4 @@
-## Welcome 👋
-💬 **I'am Liliana Kupczyk.** 
+## Welcome 👋  **I'am Liliana Kupczyk.** 
 
 I took my first steps in programming while studying Mechatronics at the Wrocław University of Science and Technology. 
 
