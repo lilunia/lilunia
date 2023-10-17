@@ -4,7 +4,6 @@ I took my first steps in programming while studying Mechatronics at the Wrocław
 
 **Last year I decided to start my adventure with Frontend Development**. Programming gives me a lot of satisfaction and I would like to develop further in this direction.
 
-Currently, I'm working as a **Support Engineer and I am involved with CATIA V5** - **3D modeling software**. I create projects and conduct training and workshops in CATIA V5 at various levels of advancement.
 
 ## Tech stack
 
@@ -16,6 +15,7 @@ Currently, I'm working as a **Support Engineer and I am involved with CATIA V5**
 
 🌱 I’m currently learning **React.js**.
 
+/*
 ## Soft skills
 
 I like:
@@ -25,7 +25,7 @@ I like:
 - **helping others** solve their problem 🤝 🙏
 - **sharing knowledge** with others 👩🏼‍🏫 📖
 - **challenges** and have **ability to adapt** to changing conditions 🚀
-<br>
+<br> */
 🤸‍♀️ 🧘🏼‍♀️ In my free time I like stretching and doing Yoga.
 <br><br>
 ✉️ How to reach me: lilkupczyk@gmail.com
