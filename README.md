@@ -15,7 +15,6 @@ I took my first steps in programming while studying Mechatronics at the Wrocław
 
 🌱 I’m currently learning **React.js**.
 
-/*
 ## Soft skills
 
 I like:
@@ -25,7 +24,8 @@ I like:
 - **helping others** solve their problem 🤝 🙏
 - **sharing knowledge** with others 👩🏼‍🏫 📖
 - **challenges** and have **ability to adapt** to changing conditions 🚀
-<br> */
+- 
+<br> 
 🤸‍♀️ 🧘🏼‍♀️ In my free time I like stretching and doing Yoga.
 <br><br>
 ✉️ How to reach me: lilkupczyk@gmail.com
