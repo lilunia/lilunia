@@ -14,15 +14,7 @@ I took my first steps in programming while studying Mechatronics at the Wrocław
 
 🌱 I’m currently learning **React.js**.
 
-## Soft skills
 
-I like:
-
-- setting **new goals** and **consistently** achieving them 🎯
-- **doing research and analyzing research findings** to solve problems and provide creative solutions 🔍 💡
-- **helping others** solve their problem 🤝 🙏
-- **sharing knowledge** with others 👩🏼‍🏫 📖
-- **challenges** and have **ability to adapt** to changing conditions 🚀
 <br> 
 🤸‍♀️ 🧘🏼‍♀️ In my free time I like stretching and doing Yoga.
 <br><br>
