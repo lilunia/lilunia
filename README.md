@@ -1,8 +1,8 @@
-## Welcome 👋  **I'am Liliana** 
+## Welcome 👋  **I am Liliana Kupczyk** 
 
-I took my first steps in programming while studying Mechatronics at the Wrocław University of Science and Technology. 
+I took my first steps in programming while studying Mechatronics at the Wrocław University of Science and Technology, but after graduating I directed my career towards 3d modelling (CATIA V5).
 
-**Last year I decided to start my adventure with Frontend Development**. Programming gives me a lot of satisfaction and I would like to develop further in this direction.
+**Over a year ago I decided to start my adventure with Frontend Development**. Programming gives me a lot of satisfaction and I would like to develop further in this direction.
 
 
 ## Tech stack
