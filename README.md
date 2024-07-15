@@ -1,4 +1,4 @@
-## Welcome 👋  **I am Liliana** 
+## Welcome 👋  **I am Liliana Kupczyk** 
 
 I took my first steps in programming while studying Mechatronics at the Wrocław University of Science and Technology, but after graduating I directed my career towards 3d modelling (CATIA V5).
 
