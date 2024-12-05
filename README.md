@@ -17,9 +17,6 @@ I took my first steps in programming while studying Mechatronics at the Wrocław
    <a href="https://sass-lang.com" target="_blank" rel="noopener"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
  
 
-🌱 I am also currently interested in the subject of data analysis.
-
-
 <br> 
 🤸‍♀️ 🧘🏼‍♀️ In my free time I like stretching and doing Yoga.
 <br><br>
