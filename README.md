@@ -2,7 +2,8 @@
 
 I took my first steps in programming while studying Mechatronics at the Wrocław University of Science and Technology, but after graduating I directed my career towards 3d modelling (CATIA V5).
 
-**Over a year ago I decided to start my adventure with Frontend Development**. Programming gives me a lot of satisfaction and I would like to develop further in this direction.
+**Over a year ago I decided to start my adventure with Frontend Development**. Programming gives me a lot of satisfaction and joy. 
+🌱 I am also currently interested in the subject of data analysis.
 
 
 ## Tech stack
